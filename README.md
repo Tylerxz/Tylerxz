@@ -1,5 +1,3 @@
-</### Hi there 👋/>
-
 你好呀我叫Tylerxz
 
 ![Tylerxz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tylerxz&show_icons=true)
