@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+你好呀我叫Tylerxz
 <!--
 **Tylerxz/Tylerxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
---><img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
-
+![Tylerxz's GitHub stats](https://github-status.msdnicrosoft.cn/api?username=Tylerxz&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)
